@@ -22,7 +22,7 @@ Sinta-se à vontade para personalizar e aprimorar esta landing page de acordo co
 
 ## Overview
 
-This repository contains a simple **landing page** created exclusively with HTML and CSS. It was developed as part of the Entra21 employability program, under the supervision of Professor Ivan J. Borchardt, represented by Blusoft - the Information Technology and Communication Hub of the Blumenau region. The program is funded by the state government through FAPESC (Foundation for Research and Innovation Support) and the Blumenau City Hall.
+This repository contains a simple **landing page** created exclusively with HTML and CSS. It was developed as part of the Entra21 employability program, under the supervision of Professor Ivan J. Borchardt, represented by Blusoft - the Information Technology and Communication Hub of the Blumenau region. The program is funded by the state government through FAPESC and the Blumenau City Hall.
 
 ## Usage
 
