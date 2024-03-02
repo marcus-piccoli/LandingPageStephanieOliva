@@ -1,7 +1,5 @@
 # Landing Page: Stephanie Oliva
 
-![Responsive Landing Page]
-
 ## Visão Geral
 
 Este repositório contém uma simples **landing page** criada exclusivamente com HTML e CSS. Ela foi desenvolvida como parte do programa de empregabilidade Entra21, sob supervisão do professor Ivan J. Borchardt, representado pelo Blusoft - Polo de Tecnologia da Informação e Comunicação da Região de Blumenau. O programa é financiado pelo governo do estado através da FAPESC (Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina) e pela Prefeitura de Blumenau.
@@ -17,8 +15,6 @@ Sinta-se à vontade para personalizar e aprimorar esta landing page de acordo co
 ---
 
 # Landing Page: Stephanie Oliva
-
-![Responsive Landing Page]
 
 ## Overview
 
