@@ -1,0 +1,190 @@
+@font-face {
+  font-family: "Barcelony";
+  src: url(./fonts/Barcelony\ 400.ttf) format("truetype");
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+a {
+  margin: 0;
+  font-size: 100%;
+  font-weight: normal;
+  text-indent: 40px;
+}
+
+.title{
+  font-family: "Barcelony";
+  font-size: 120px;
+  line-height: 140px;
+  color: rgb(78, 53, 36);
+  max-width: 1240px;
+  margin-top: 375px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.page {
+  font-family: "Inter", sans-serif;
+  background: #eeeeee;
+}
+
+.header {
+  height: 100vh;
+  background-image: url(./images/Background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+}
+
+.overlay {
+  width: 100vh;
+  margin-left: 25%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10px auto 0px;
+}
+
+.card{
+  display: flex;
+  width: 700px;
+  height: 800px;
+  margin-bottom: 20px;
+  padding: 45px 45px 70px 45px;
+  box-shadow: 4px 4px 5px rgba(0, 132, 255 0.4);
+}
+
+.card1 {
+  background-image: url(./images/Auriculoterapia.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  flex-direction: column;
+}
+
+.card2 {
+  background-image: url(./images/Dry\ needling.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  flex-direction: column;
+}
+
+.card3 {
+  background-image: url(./images/Liberação\ miofascial.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  flex-direction: column;
+}
+
+.card4 {
+  background-image: url(./images/Quem\ sou.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  flex-direction: column;
+}
+
+.card_title{
+  font-family: "Permanent Marker", cursive;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.card_image{
+  margin-bottom: auto;
+  height: 250px;
+  width: 250px;
+}
+
+.card_text{
+  margin-top: 300px;
+  font-size: 16px;
+  font-family: Verdana;
+  color: rgb(78, 53, 36);
+  text-align: justify;
+  /*text-indent: 40px;*/
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  min-height: 350px;
+  box-sizing: border-box;
+}
+
+.footer__author {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  color: rgb(78, 53, 36);
+  margin-bottom: 18px;
+}
+
+.footer__column {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__column_content_about {
+  row-gap: 20px;
+}
+
+.footer__column_content_copyright {
+  justify-content: space-between;
+  flex-basis: 711px;
+}
+
+.footer__column_content_social {
+  row-gap: 20px;
+}
+
+.footer__column-heading {
+  color: rgb(78, 53, 36);
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.footer__column-link {
+  line-height: 30px;
+  font-size: 18px;
+  text-decoration: none;
+  text-decoration-color: white;
+  color: rgb(78, 53, 36);
+}
+
+.footer__columns {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.footer__list {
+  padding: 0;
+  list-style-type: none;
+  color: rgb(78, 53, 36);
+}
+
+.footer__social-icons {
+  width: 25px;
+  padding-right: 10px;
+}
+
+.logo {
+  width: 100px;
+}
